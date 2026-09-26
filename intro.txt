@@ -6,4 +6,4 @@ Major / program: Master of Data Science & Analytics
 
 Favorite dataset or industry interest: Personally, any sports related data. Professionally, healthcare and insurance.
 
-One reason I am studying analytics:
+One reason I am studying analytics: I love working with numbers and have always found statistics fascinating.  Applying these passions to real world business situations is very fulfilling.
