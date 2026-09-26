@@ -73,3 +73,13 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+## Why Version Control Matters
+
+Version control is crucial for analytics because often times you are not the only analyst working on a project.
+There needs to be a consistent way for multiple analysts to work on the same project at one time while not interfering
+with the work of each other.  Version control aptly controls some of that chaos by allowing forking and merging of code,
+maintaining a log of each change and why it was changed, and providing metadata about new modifications or contributions.
+Version control also acts as a fail safe as *Github for Dummies* points out. Analysts are free to experiment without having
+to worry about starting everything over from scratch because their code critically broke something.
